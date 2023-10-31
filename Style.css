@@ -1,0 +1,42 @@
+body {
+    background-color: cadetblue;
+}
+
+#LectorQr{
+    margin: auto;
+    height: 500px;
+    width: 300px;
+    background-color:white;
+    border-radius: 30px;
+    padding: 5px;
+    border-width: 3px;
+    border-style: solid;
+    border-color: black;
+}
+
+#ContornoQr{
+    background-color: rgb(103, 250, 255);
+    height : 300px;
+    width: 100%;
+    border-radius: 30px;  
+    align-items: center;
+    justify-content: center;
+    display: flex; 
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(0, 222, 252);
+}
+
+h1{
+
+    text-align: center;
+}
+
+#Parrafo{
+
+    text-align:center;
+}
+
+#imagenQr{
+    height: 260px;
+}
