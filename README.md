@@ -31,7 +31,7 @@ No es necesario realizar ninguna instalación para utilizar la página web. Solo
 
 ## Autor
 
-* [[Tu Nombre](enlace_a_tu_perfil_de_LinkedIn)](https://www.linkedin.com/in/francisco-nahuel-figueroa-8b3b05242/)
+* [[Francisco Nahuel Figueroa](enlace_a_tu_perfil_de_LinkedIn)](https://www.linkedin.com/in/francisco-nahuel-figueroa-8b3b05242/)
 
 
 Espero que disfrutes de mi proyecto. ¡Gracias por tu interés y apoyo!
